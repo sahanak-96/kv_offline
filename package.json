@@ -1,0 +1,59 @@
+{
+    "name": "crypto-app",
+    "version": "1.0.0",
+    "description": "This is crypto app",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build": "electron-packager . myapp",
+        "dist": "electron-builder"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "build": {
+        "appId": "com.electron.chapter13",
+        "compression": "normal",
+        "asar": true,
+        "extends": null,
+        "files": [
+            "main.js",
+            "build/**/*",
+            "node_modules/**/*",
+            "favicon.ico"
+        ],
+        "linux": {
+            "target": "zip"
+        },
+        "win": {
+            "target": "portable"
+        }
+    },
+    "dependencies": {
+        "app-module-path": "^2.2.0",
+        "async-method": "^1.0.0",
+        "child_process": "^1.0.2",
+        "dotenv": "^8.2.0",
+        "ee-class": "^1.4.0",
+        "ee-event-emitter": "^1.0.1",
+        "ee-log": "^3.0.9",
+        "ee-types": "^3.0.2",
+        "fs-extra": "^9.0.1",
+        "is-online": "^8.4.0",
+        "jquery": "^3.5.1",
+        "mocha": "^7.2.0",
+        "node-command-line": "^1.0.2",
+        "pg": "^8.2.1",
+        "pg-tools": "^0.1.0",
+        "pgtools": "^0.3.0",
+        "prompt": "^1.0.0",
+        "restore": "^0.3.0",
+        "shell": "^0.5.0",
+        "xmlhttprequest": "^1.8.0"
+    },
+    "devDependencies": {
+        "electron": "^9.0.0",
+        "electron-builder": "^22.7.0",
+        "electron-packager": "^14.2.1"
+    }
+}
