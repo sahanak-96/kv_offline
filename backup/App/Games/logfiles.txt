@@ -1,0 +1,90 @@
+2020/03/30 11:22:58 * Uncaught ReferenceError: chHolder is not defined * FindThePair/ * undefined * -1
+2020/03/31 09:59:18 * Uncaught TypeError: Cannot read property 'close' of undefined * FindThePair/ * 10 * 0
+2020/03/31 09:59:19 * Uncaught TypeError: Cannot read property 'close' of undefined * FindThePair/ * 10 * 0
+2020/03/31 10:04:29 * Uncaught TypeError: Cannot read property 'close' of undefined * FindThePair/ * 10 * 0
+2020/04/02 06:47:04 * Uncaught ReferenceError: AngBaseUrl is not defined * FindThePair/ * undefined * -1
+2020/04/02 06:48:07 * Uncaught ReferenceError: AngBaseUrl is not defined * FindThePair/ * undefined * -1
+2020/04/03 11:11:54 * Uncaught ReferenceError: Title is not defined * MirrorMatch-Level4/ * undefined * -1
+2020/04/03 11:25:20 * Uncaught ReferenceError: holder is not defined * Senses-Level2/ * undefined * -1
+2020/04/03 11:29:22 * Uncaught ReferenceError: holder is not defined * Senses-Level2/ * undefined * -1
+2020/04/06 01:13:17 * Uncaught TypeError: Cannot set property 'cursor' of undefined * CountMyHand-Level2/ * undefined * -1
+2020/04/06 01:37:49 * Uncaught TypeError: Cannot read property 'clone' of undefined * WhereIBelong/ * undefined * -1
+2020/04/06 03:28:37 * Uncaught TypeError: Cannot read property 'addChild' of null * WhereIBelong/ * 13 * 0
+2020/04/06 03:52:28 * Uncaught TypeError: Cannot read property 'addChild' of null * CountMyHand-Level2/ * 4 * 4
+2020/04/06 03:54:01 * Uncaught TypeError: Cannot read property 'addChild' of null * CountMyHand-Level2/ * 16 * 9
+2020/04/06 05:41:56 * Uncaught TypeError: Cannot read property 'addChild' of null * FindThePair/ * 5 * 3
+2020/04/06 08:23:31 * Uncaught TypeError: Cannot read property 'addChild' of null * FindThePair/ * 1 * 9
+2020/04/06 08:27:10 * Uncaught TypeError: Cannot read property 'parent' of undefined * FindThePair/ * undefined * -1
+2020/04/06 08:29:46 * Uncaught TypeError: Cannot read property 'parent' of undefined * FindThePair/ * undefined * -1
+2020/04/06 08:29:46 * Uncaught TypeError: Cannot set property 'visible' of undefined * FindThePair/ * undefined * -1
+2020/04/06 08:30:13 * Uncaught TypeError: Cannot read property 'parent' of undefined * FindThePair/ * undefined * -1
+2020/04/06 08:30:13 * Uncaught TypeError: Cannot set property 'visible' of undefined * FindThePair/ * undefined * -1
+2020/04/06 08:30:26 * Uncaught TypeError: Cannot read property 'parent' of undefined * FindThePair/ * undefined * -1
+2020/04/06 08:30:26 * Uncaught TypeError: Cannot set property 'visible' of undefined * FindThePair/ * undefined * -1
+2020/04/06 08:37:48 * Uncaught TypeError: Cannot read property 'parent' of undefined * FindThePair/ * undefined * -1
+2020/04/06 08:37:49 * Uncaught TypeError: Cannot set property 'visible' of undefined * FindThePair/ * undefined * -1
+2020/04/07 09:49:14 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 0 * 4
+2020/04/07 10:13:47 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 5 * 2
+2020/04/07 10:16:00 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 1 * 9
+2020/04/07 10:19:36 * Uncaught TypeError: Cannot read property 'addChild' of null * AreWeSame/ * 15 * 9
+2020/04/07 10:30:39 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 6 * 9
+2020/04/07 10:33:01 * Uncaught TypeError: Cannot read property 'parent' of undefined * DiscoverMe-Level1/ * undefined * -1
+2020/04/07 10:34:16 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 3 * 9
+2020/04/07 10:40:28 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 0 * 9
+2020/04/07 10:41:38 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 5 * 9
+2020/04/07 10:46:07 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 4 * 2
+2020/04/07 10:53:35 * Uncaught TypeError: Cannot read property 'parent' of undefined * DiscoverMe-Level1/ * undefined * -1
+2020/04/07 10:55:24 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 5 * 9
+2020/04/07 10:57:21 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 6 * 9
+2020/04/07 10:59:42 * Uncaught TypeError: Cannot read property 'addChild' of null * DiscoverMe-Level1/ * 1 * 9
+2020/04/10 02:44:19 * Uncaught TypeError: Cannot set property 'visible' of undefined * AreWeSame/ * undefined * -1
+2020/04/10 02:44:19 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/10 02:58:55 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/10 02:58:55 * Uncaught TypeError: Cannot set property 'visible' of undefined * AreWeSame/ * undefined * -1
+2020/04/10 02:58:59 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/10 02:58:59 * Uncaught TypeError: Cannot set property 'visible' of undefined * AreWeSame/ * undefined * -1
+2020/04/10 02:59:08 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/10 02:59:21 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/13 02:31:45 * Uncaught ReferenceError: AngSndNam is not defined * DiscoverMe-Level1/ * undefined * -1
+2020/04/13 02:34:39 * Uncaught ReferenceError: AngSndNam is not defined * DiscoverMe-Level1/ * undefined * -1
+2020/04/13 02:35:37 * Uncaught ReferenceError: AngSndNam is not defined * DiscoverMe-Level1/ * undefined * -1
+2020/04/13 04:19:33 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/13 04:31:23 * Uncaught TypeError: Cannot read property 'parent' of undefined * DiscoverMe-Level1/ * undefined * -1
+2020/04/13 04:37:09 * Uncaught TypeError: Cannot read property 'parent' of undefined * DiscoverMe-Level1/ * undefined * -1
+2020/04/15 10:02:06 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/15 10:02:12 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/15 10:07:20 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/15 10:07:25 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/15 10:07:38 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/21 05:04:59 * Uncaught ReferenceError: AngSndNam is not defined * AreWeSame/ * undefined * -1
+2020/04/21 07:07:03 * Uncaught ReferenceError: AngSndNam is not defined * AreWeSame/ * undefined * -1
+2020/04/21 07:22:39 * Uncaught ReferenceError: AngSndNam is not defined * AreWeSame/ * undefined * -1
+2020/04/21 07:23:33 * Uncaught ReferenceError: AngSndNam is not defined * AreWeSame/ * undefined * -1
+2020/04/21 07:23:53 * Uncaught ReferenceError: AngSndNam is not defined * AreWeSame/ * undefined * -1
+2020/04/22 07:26:37 * Uncaught TypeError: Cannot read property 'parent' of undefined * DiscoverMe-Level1/ * undefined * -1
+2020/04/22 07:26:41 * Uncaught TypeError: Cannot read property 'length' of undefined * DiscoverMe-Level1/ * undefined * -1
+2020/04/22 07:27:01 * Uncaught TypeError: Cannot read property 'parent' of undefined * DiscoverMe-Level1/ * undefined * -1
+2020/04/23 03:12:07 * Uncaught ReferenceError: holder is not defined * Senses-Level2/ * undefined * -1
+2020/04/24 01:58:04 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/24 01:58:11 * Uncaught TypeError: Cannot read property 'parent' of undefined * AreWeSame/ * undefined * -1
+2020/04/24 04:01:54 * Uncaught TypeError: Cannot read property 'addChild' of null * AreWeSame/ * 19 * 1
+2020/04/24 04:02:02 * Uncaught ReferenceError: timeOverImg is not defined * AreWeSame/ * undefined * -1
+2020/04/24 04:03:37 * Uncaught TypeError: Cannot read property 'addChild' of null * AreWeSame/ * 15 * 1
+2020/04/24 04:04:00 * Uncaught ReferenceError: timeOverImg is not defined * CountMyHand-Level2/ * undefined * -1
+2020/04/24 04:04:05 * Uncaught ReferenceError: timeOverImg is not defined * CountMyHand-Level2/ * undefined * -1
+2020/04/24 04:04:12 * Uncaught ReferenceError: timeOverImg is not defined * CountMyHand-Level2/ * undefined * -1
+2020/04/24 04:05:11 * Uncaught TypeError: Cannot read property 'addChild' of null * CountMyHand-Level2/ * 9 * 1
+2020/04/24 04:05:19 * Uncaught ReferenceError: timeOverImg is not defined * DiscoverMe-Level1/ * undefined * -1
+2020/04/24 04:06:59 * Uncaught ReferenceError: timeOverImg is not defined * WhereIBelong/ * undefined * -1
+2020/04/24 04:31:09 * Uncaught ReferenceError: redirectJsonPath is not defined * FindThePair/ * undefined * -1
+2020/04/24 04:31:11 * Uncaught ReferenceError: redirectJsonPath is not defined * FindThePair/ * undefined * -1
+2020/04/24 04:33:22 * Uncaught TypeError: Cannot read property 'parent' of undefined * FindThePair/ * undefined * -1
+2020/04/24 04:49:13 * Uncaught TypeError: Cannot read property 'parent' of undefined * FindThePair/ * undefined * -1
+2020/04/24 04:49:15 * Uncaught TypeError: Cannot read property 'parent' of undefined * FindThePair/ * undefined * -1
+2020/04/24 04:59:08 * Uncaught ReferenceError: url1 is not defined * FindThePair/ * undefined * -1
+2020/04/24 04:59:11 * Uncaught ReferenceError: url1 is not defined * FindThePair/ * undefined * -1
+2020/06/23 08:08:54 * Uncaught ReferenceError: timeOverImg is not defined * CountMyHand-Level2/ * undefined * -1
+2020/06/23 08:09:19 * Uncaught ReferenceError: timeOverImg is not defined * CountMyHand-Level2/ * undefined * -1
+2020/06/23 08:09:31 * Uncaught ReferenceError: timeOverImg is not defined * CountMyHand-Level2/ * undefined * -1
+2020/06/23 08:09:59 * Uncaught ReferenceError: timeOverImg is not defined * CountMyHand-Level2/ * undefined * -1
+2020/06/23 08:10:27 * Uncaught ReferenceError: timeOverImg is not defined * CountMyHand-Level2/ * undefined * -1

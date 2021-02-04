@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"Symbol 1 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10001":
+{
+	"frame": {"x":541,"y":0,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10002":
+{
+	"frame": {"x":1082,"y":0,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10003":
+{
+	"frame": {"x":0,"y":377,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10004":
+{
+	"frame": {"x":541,"y":377,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10005":
+{
+	"frame": {"x":1082,"y":377,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10006":
+{
+	"frame": {"x":0,"y":754,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10007":
+{
+	"frame": {"x":541,"y":754,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10008":
+{
+	"frame": {"x":1082,"y":754,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+},
+"Symbol 1 instance 10009":
+{
+	"frame": {"x":0,"y":1131,"w":541,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":377},
+	"sourceSize": {"w":541,"h":377}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "question.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
