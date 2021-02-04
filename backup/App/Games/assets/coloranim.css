@@ -1,0 +1,156 @@
+
+@font-face {
+    font-family: "Veggieburger-Bold";
+      src: url(../fonts/Veggieburger-Bold.otf) format("opentype"),
+        url(../fonts/Veggieburger-Bold.woff) format("opentype"),
+      url(../fonts/Veggieburger-Bold.ttf) format("truetype")
+    }
+
+@font-face {
+    font-family: "Lato-Bold";
+      src: url(../fonts/lato-bold.otf) format("opentype"),
+        url(../fonts/lato-bold.woff) format("opentype"),
+      url(../fonts/lato-bold.ttf) format("truetype")
+    }
+
+    @font-face {
+      font-family: "Digital-Regular";
+        src: url(../fonts/digital-7-regular.otf) format("opentype"),
+        url(../fonts/digital-7-regular.ttf) format("truetype")
+      }
+      @font-face {
+        font-family: "Digital-Mono-Italic";
+          src: url(../fonts/digital-7-mono-italic.otf) format("opentype"),
+          url(../fonts/digital-7-mono-italic.ttf) format("truetype")
+      }
+
+      @font-face {
+        font-family: "Digital-Italic";
+          src: url(../fonts/digital-7-italic.otf) format("opentype"),
+          url(../fonts/digital-7-italic.ttf) format("truetype")
+        }
+
+        @font-face {
+          font-family: "Digital";
+            src: url(../fonts/digital-7.otf) format("opentype"),
+            url(../fonts/digital-7.ttf) format("truetype")
+          }
+
+          @font-face {
+            font-family: "DS-DIGITAL";
+              src: url(../fonts/DS-Digital.otf) format("opentype"),
+              url(../fonts/DS-DIGI.ttf) format("truetype")
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   @font-face {
+    font-family: "Questrial-Regular";
+      src: url(../fonts/Questrial-Regular.otf) format("opentype"),
+        url(../fonts/Questrial-Regular.woff) format("opentype"),
+      url(../fonts/Questrial-Regular.ttf) format("truetype")
+    }  
+.center p {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+right: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  .center1 svg {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+right: 50%;
+
+  }
+  
+  
+      .awesome {
+        
+        font-family:DS-DIGITAL;
+        font-style: bold;
+        
+        width:100%;
+
+        margin: 0 auto;
+        text-align: center;
+        
+        color:#313131;
+        font-size:100px;
+        font-weight: bold;
+        position: absolute;
+        -webkit-animation:colorchange 10s infinite alternate;
+        
+        
+      }
+  
+      @-webkit-keyframes colorchange {
+        0% {
+          
+          color: blue;
+        }
+        
+        10% {
+          
+          color: #8e44ad;
+        }
+        
+        20% {
+          
+          color: #1abc9c;
+        }
+        
+        30% {
+          
+          color: #d35400;
+        }
+        
+        40% {
+          
+          color: blue;
+        }
+        
+        50% {
+          
+          color: #34495e;
+        }
+        
+        60% {
+          
+          color: blue;
+        }
+        
+        70% {
+          
+          color: #2980b9;
+        }
+        80% {
+       
+          color: #f1c40f;
+        }
+        
+        90% {
+       
+          color: #2980b9;
+        }
+        
+        100% {
+          
+          color: pink;
+        }
+      }

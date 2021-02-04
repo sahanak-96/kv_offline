@@ -1,0 +1,7 @@
+{
+	"baseurl":"http://localhost/schools_clp1920/v1/index.php",
+	"path":"http://localhost/schools_clp1920/v1/index.php/home/result",
+	"get_info":"http://localhost/schools_clp1920/v1/index.php/home/get_info",
+	"scoreupdate":"http://localhost/schools_clp1920/v1/index.php/home/scoreupdate",
+	"nav":"yes"
+}
